@@ -1,0 +1,14 @@
+C:\Users\laboratorio\source\repos\AULA 2 - Revisoes+Introduçao\bin\Debug\net8.0\AULA 2 - Revisoes+Introduçao.exe
+C:\Users\laboratorio\source\repos\AULA 2 - Revisoes+Introduçao\bin\Debug\net8.0\AULA 2 - Revisoes+Introduçao.deps.json
+C:\Users\laboratorio\source\repos\AULA 2 - Revisoes+Introduçao\bin\Debug\net8.0\AULA 2 - Revisoes+Introduçao.runtimeconfig.json
+C:\Users\laboratorio\source\repos\AULA 2 - Revisoes+Introduçao\bin\Debug\net8.0\AULA 2 - Revisoes+Introduçao.dll
+C:\Users\laboratorio\source\repos\AULA 2 - Revisoes+Introduçao\bin\Debug\net8.0\AULA 2 - Revisoes+Introduçao.pdb
+C:\Users\laboratorio\source\repos\AULA 2 - Revisoes+Introduçao\obj\Debug\net8.0\AULA 2 - Revisoes+Introduçao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\source\repos\AULA 2 - Revisoes+Introduçao\obj\Debug\net8.0\AULA 2 - Revisoes+Introduçao.AssemblyInfoInputs.cache
+C:\Users\laboratorio\source\repos\AULA 2 - Revisoes+Introduçao\obj\Debug\net8.0\AULA 2 - Revisoes+Introduçao.AssemblyInfo.cs
+C:\Users\laboratorio\source\repos\AULA 2 - Revisoes+Introduçao\obj\Debug\net8.0\AULA 2 - Revisoes+Introduçao.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\source\repos\AULA 2 - Revisoes+Introduçao\obj\Debug\net8.0\AULA 2 - Revisoes+Introduçao.dll
+C:\Users\laboratorio\source\repos\AULA 2 - Revisoes+Introduçao\obj\Debug\net8.0\refint\AULA 2 - Revisoes+Introduçao.dll
+C:\Users\laboratorio\source\repos\AULA 2 - Revisoes+Introduçao\obj\Debug\net8.0\AULA 2 - Revisoes+Introduçao.pdb
+C:\Users\laboratorio\source\repos\AULA 2 - Revisoes+Introduçao\obj\Debug\net8.0\AULA 2 - Revisoes+Introduçao.genruntimeconfig.cache
+C:\Users\laboratorio\source\repos\AULA 2 - Revisoes+Introduçao\obj\Debug\net8.0\ref\AULA 2 - Revisoes+Introduçao.dll
