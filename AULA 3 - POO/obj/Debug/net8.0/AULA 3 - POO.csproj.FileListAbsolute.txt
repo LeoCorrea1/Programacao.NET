@@ -1,0 +1,14 @@
+C:\Users\laboratorio\source\repos\AULA 3 - POO\bin\Debug\net8.0\AULA 3 - POO.exe
+C:\Users\laboratorio\source\repos\AULA 3 - POO\bin\Debug\net8.0\AULA 3 - POO.deps.json
+C:\Users\laboratorio\source\repos\AULA 3 - POO\bin\Debug\net8.0\AULA 3 - POO.runtimeconfig.json
+C:\Users\laboratorio\source\repos\AULA 3 - POO\bin\Debug\net8.0\AULA 3 - POO.dll
+C:\Users\laboratorio\source\repos\AULA 3 - POO\bin\Debug\net8.0\AULA 3 - POO.pdb
+C:\Users\laboratorio\source\repos\AULA 3 - POO\obj\Debug\net8.0\AULA 3 - POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\source\repos\AULA 3 - POO\obj\Debug\net8.0\AULA 3 - POO.AssemblyInfoInputs.cache
+C:\Users\laboratorio\source\repos\AULA 3 - POO\obj\Debug\net8.0\AULA 3 - POO.AssemblyInfo.cs
+C:\Users\laboratorio\source\repos\AULA 3 - POO\obj\Debug\net8.0\AULA 3 - POO.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\source\repos\AULA 3 - POO\obj\Debug\net8.0\AULA 3 - POO.dll
+C:\Users\laboratorio\source\repos\AULA 3 - POO\obj\Debug\net8.0\refint\AULA 3 - POO.dll
+C:\Users\laboratorio\source\repos\AULA 3 - POO\obj\Debug\net8.0\AULA 3 - POO.pdb
+C:\Users\laboratorio\source\repos\AULA 3 - POO\obj\Debug\net8.0\AULA 3 - POO.genruntimeconfig.cache
+C:\Users\laboratorio\source\repos\AULA 3 - POO\obj\Debug\net8.0\ref\AULA 3 - POO.dll

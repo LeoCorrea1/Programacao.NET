@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "AULA 3 - POO.csproj",
+        "Action": "Start",
+        "DebugTarget": "AULA 3 - POO"
+      }
+    ]
+  }
+]
