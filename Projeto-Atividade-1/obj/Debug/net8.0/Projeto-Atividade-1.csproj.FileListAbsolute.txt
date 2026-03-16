@@ -1,0 +1,14 @@
+C:\Users\laboratorio\source\repos\Projeto-Atividade-1\obj\Debug\net8.0\Projeto-Atividade-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\source\repos\Projeto-Atividade-1\obj\Debug\net8.0\Projeto-Atividade-1.AssemblyInfoInputs.cache
+C:\Users\laboratorio\source\repos\Projeto-Atividade-1\obj\Debug\net8.0\Projeto-Atividade-1.AssemblyInfo.cs
+C:\Users\laboratorio\source\repos\Projeto-Atividade-1\obj\Debug\net8.0\Projeto-Atividade-1.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\source\repos\Projeto-Atividade-1\bin\Debug\net8.0\Projeto-Atividade-1.exe
+C:\Users\laboratorio\source\repos\Projeto-Atividade-1\bin\Debug\net8.0\Projeto-Atividade-1.deps.json
+C:\Users\laboratorio\source\repos\Projeto-Atividade-1\bin\Debug\net8.0\Projeto-Atividade-1.runtimeconfig.json
+C:\Users\laboratorio\source\repos\Projeto-Atividade-1\bin\Debug\net8.0\Projeto-Atividade-1.dll
+C:\Users\laboratorio\source\repos\Projeto-Atividade-1\bin\Debug\net8.0\Projeto-Atividade-1.pdb
+C:\Users\laboratorio\source\repos\Projeto-Atividade-1\obj\Debug\net8.0\Projeto-Atividade-1.dll
+C:\Users\laboratorio\source\repos\Projeto-Atividade-1\obj\Debug\net8.0\refint\Projeto-Atividade-1.dll
+C:\Users\laboratorio\source\repos\Projeto-Atividade-1\obj\Debug\net8.0\Projeto-Atividade-1.pdb
+C:\Users\laboratorio\source\repos\Projeto-Atividade-1\obj\Debug\net8.0\Projeto-Atividade-1.genruntimeconfig.cache
+C:\Users\laboratorio\source\repos\Projeto-Atividade-1\obj\Debug\net8.0\ref\Projeto-Atividade-1.dll
