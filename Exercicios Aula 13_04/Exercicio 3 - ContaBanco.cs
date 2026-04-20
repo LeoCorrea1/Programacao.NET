@@ -12,7 +12,7 @@ namespace ProjetoContas
 
         public void ExibirSaldo()
         {
-            Console.WriteLine("Saldo atual: R$ " + Saldo);
+            Console.WriteLine("Saldo atual: " + Saldo);
         }
     }
 
@@ -53,7 +53,7 @@ namespace ProjetoContas
     {
         public override void Depositar(double valor)
         {
-            Console.WriteLine("Nao permite deposito manual em conta salario");
+            Console.WriteLine("Nao permite deposito em conta salario");
         }
 
         public override void Sacar(double valor)
