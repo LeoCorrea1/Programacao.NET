@@ -28,7 +28,7 @@ namespace ProjetoAula13_04
 
         public override void ExibirTipo()
         {
-            Console.WriteLine("Eu sou um Aluno");
+            Console.WriteLine("Eu sou um aluno");
         }
 
         public override void Apresentar()
