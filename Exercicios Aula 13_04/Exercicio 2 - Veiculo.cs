@@ -31,7 +31,7 @@ namespace ProjetoAula13_04
 
         public override string Dirigir()
         {
-            return "DIRIGINDO O CARRO MARCA : " + Marca + " Modelo : " + Modelo + " Portas : " + portas;
+            return "Dirigindo o Carro Marca : " + Marca + " Modelo : " + Modelo + " Portas : " + portas;
         }
 
         public override string CalcularConsumo()
