@@ -1,0 +1,38 @@
+@page
+@model WebApp.Pages.SociosModel
+@{
+    ViewData["Title"] = "Quadro de Sócios";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Categoria</th>
+            <th>Idade</th>
+            <th>Mensalidade</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var s in Model.ListaSocios)
+        {
+            <tr>
+                <td>
+                    @if (s.Categoria == "Ouro")
+                    {
+                        <strong>@s.Nome</strong>
+                    }
+                    else
+                    {
+                        @s.Nome
+                    }
+                </td>
+                <td>@s.Categoria</td>
+                <td>@s.Idade</td>
+                <td>@s.Mensalidade.ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>

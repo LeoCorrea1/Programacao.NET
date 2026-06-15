@@ -1,0 +1,27 @@
+@page
+@model PainelRH.Pages.FuncionariosModel
+@{
+    ViewData["Title"] = "Painel de Funcionários";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Cargo</th>
+            <th>Salário</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var f in Model.ListaFuncionarios)
+        {
+            <tr>
+                <td>@f.Nome</td>
+                <td>@f.Cargo</td>
+                <td>@f.Salario.ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>
