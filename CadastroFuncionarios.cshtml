@@ -1,0 +1,38 @@
+@page
+@model MeuApp.Pages.FuncionariosModel
+
+<h2>Gerenciamento de Funcionários</h2>
+
+<fieldset style="margin-bottom: 20px; padding: 15px;">
+    <legend>Cadastrar Novo Funcionário</legend>
+    <form method="post">
+        <p>
+            <label>Nome:</label><br />
+            <input type="text" asp-for="NomeDigitado" required />
+        </p>
+        <p>
+            <label>Cargo:</label><br />
+            <input type="text" asp-for="CargoDigitado" required />
+        </p>
+        <button type="submit">Salvar e Atualizar Lista</button>
+    </form>
+</fieldset>
+
+<h3>Funcionários Cadastrados</h3>
+<table border="1" style="width: 100%; border-collapse: collapse; text-align: left;">
+    <thead>
+        <tr style="background-color: #f2f2f2;">
+            <th style="padding: 8px;">Nome</th>
+            <th style="padding: 8px;">Cargo</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var func in FuncionariosModel.ListaFuncionarios)
+        {
+            <tr>
+                <td style="padding: 8px;">@func.Nome</td>
+                <td style="padding: 8px;">@func.Cargo</td>
+            </tr>
+        }
+    </tbody>
+</table>
